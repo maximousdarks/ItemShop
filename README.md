@@ -1,6 +1,6 @@
 CID_434_Athena_Commando_F_StealthHonor, 3000
 BID_256_ShatterFly
-Pickaxe_ID_294_CandyCane, 1500
+EID_Worm, 1500
 EID_CycloneHeadBang, 100
 na
 na
